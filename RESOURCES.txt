@@ -1,0 +1,15 @@
+Distance between points on a Cartesian plane:
+    https://en.wikipedia.org/wiki/Euclidean_distance
+
+
+Intro to topics in computational geometry:
+    https://www.toptal.com/python/computational-geometry-in-python-from-theory-to-implementation
+
+
+A walkthrough of a execution of the Graham Scan
+    https://www.cs.princeton.edu/courses/archive/fall13/cos226/demo/99DemoGrahamScan.pdf
+	https://en.wikipedia.org/wiki/Graham_scan
+
+
+Raycasting
+	https://rosettacode.org/wiki/Ray-casting_algorithm#Python
