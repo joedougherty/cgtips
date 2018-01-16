@@ -6,7 +6,7 @@ Intro to topics in computational geometry:
     https://www.toptal.com/python/computational-geometry-in-python-from-theory-to-implementation
 
 
-A walkthrough of a execution of the Graham Scan
+A walkthrough of an execution of the Graham Scan (convex hull)
     https://www.cs.princeton.edu/courses/archive/fall13/cos226/demo/99DemoGrahamScan.pdf
 	https://en.wikipedia.org/wiki/Graham_scan
 
